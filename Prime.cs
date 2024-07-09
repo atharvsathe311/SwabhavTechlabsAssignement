@@ -8,7 +8,7 @@ public class Program
 		int num ;
 		Console.WriteLine("Enter the Number");
 		num = int.Parse(Console.ReadLine());
-		int loopend = Math.Sqrt(num) ;
+		int loopend = (int)Math.Sqrt(num) ;
 		bool isprime = true;
 
 		if( num < 2 ){
