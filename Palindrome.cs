@@ -23,9 +23,9 @@ namespace Palindrome
             }
 
             if (result == ogNumber)
-                Console.WriteLine("The Number " + result + " is Palindrome");
+                Console.WriteLine("The Number " + ogNumber + " is Palindrome");
             else
-                Console.WriteLine("The Number " + result + " is not a Palindrome");
+                Console.WriteLine("The Number " + ogNumber + " is not a Palindrome");
         }
     }
 }
