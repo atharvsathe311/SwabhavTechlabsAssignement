@@ -19,7 +19,7 @@ namespace Factorial
             }
 
             Console.WriteLine("The Factorial of above number is : " + factorial);
-            Console.ReadLine();
+           
         }
     }
 }
