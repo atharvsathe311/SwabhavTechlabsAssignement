@@ -19,7 +19,7 @@ namespace Program
 
             while (mainWhileLoop)
             {
-                Console.WriteLine("Press 1 for Entering the Product Id or 2 to Exit or 3 for getting Max Age Player");
+                Console.WriteLine("Press 1 for Entering the Player Id or 2 to Exit or 3 for getting Max Age Player");
 
                 int userChoice = int.Parse(Console.ReadLine());
                 switch (userChoice)
