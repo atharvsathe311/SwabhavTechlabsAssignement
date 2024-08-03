@@ -1,0 +1,14 @@
+C:\Users\atharv.sathe\source\repos\CollegeStudProfDept\obj\Debug\net8.0\CollegeStudProfDept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atharv.sathe\source\repos\CollegeStudProfDept\obj\Debug\net8.0\CollegeStudProfDept.AssemblyInfoInputs.cache
+C:\Users\atharv.sathe\source\repos\CollegeStudProfDept\obj\Debug\net8.0\CollegeStudProfDept.AssemblyInfo.cs
+C:\Users\atharv.sathe\source\repos\CollegeStudProfDept\obj\Debug\net8.0\CollegeStudProfDept.csproj.CoreCompileInputs.cache
+C:\Users\atharv.sathe\source\repos\CollegeStudProfDept\bin\Debug\net8.0\CollegeStudProfDept.exe
+C:\Users\atharv.sathe\source\repos\CollegeStudProfDept\bin\Debug\net8.0\CollegeStudProfDept.deps.json
+C:\Users\atharv.sathe\source\repos\CollegeStudProfDept\bin\Debug\net8.0\CollegeStudProfDept.runtimeconfig.json
+C:\Users\atharv.sathe\source\repos\CollegeStudProfDept\bin\Debug\net8.0\CollegeStudProfDept.dll
+C:\Users\atharv.sathe\source\repos\CollegeStudProfDept\bin\Debug\net8.0\CollegeStudProfDept.pdb
+C:\Users\atharv.sathe\source\repos\CollegeStudProfDept\obj\Debug\net8.0\CollegeStudProfDept.dll
+C:\Users\atharv.sathe\source\repos\CollegeStudProfDept\obj\Debug\net8.0\refint\CollegeStudProfDept.dll
+C:\Users\atharv.sathe\source\repos\CollegeStudProfDept\obj\Debug\net8.0\CollegeStudProfDept.pdb
+C:\Users\atharv.sathe\source\repos\CollegeStudProfDept\obj\Debug\net8.0\CollegeStudProfDept.genruntimeconfig.cache
+C:\Users\atharv.sathe\source\repos\CollegeStudProfDept\obj\Debug\net8.0\ref\CollegeStudProfDept.dll
