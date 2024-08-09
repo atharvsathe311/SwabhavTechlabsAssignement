@@ -1,0 +1,14 @@
+C:\Users\atharv.sathe\source\repos\ShoppingCartProject\obj\Debug\net8.0\ShoppingCartProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atharv.sathe\source\repos\ShoppingCartProject\obj\Debug\net8.0\ShoppingCartProject.AssemblyInfoInputs.cache
+C:\Users\atharv.sathe\source\repos\ShoppingCartProject\obj\Debug\net8.0\ShoppingCartProject.AssemblyInfo.cs
+C:\Users\atharv.sathe\source\repos\ShoppingCartProject\obj\Debug\net8.0\ShoppingCartProject.csproj.CoreCompileInputs.cache
+C:\Users\atharv.sathe\source\repos\ShoppingCartProject\bin\Debug\net8.0\ShoppingCartProject.exe
+C:\Users\atharv.sathe\source\repos\ShoppingCartProject\bin\Debug\net8.0\ShoppingCartProject.deps.json
+C:\Users\atharv.sathe\source\repos\ShoppingCartProject\bin\Debug\net8.0\ShoppingCartProject.runtimeconfig.json
+C:\Users\atharv.sathe\source\repos\ShoppingCartProject\bin\Debug\net8.0\ShoppingCartProject.dll
+C:\Users\atharv.sathe\source\repos\ShoppingCartProject\bin\Debug\net8.0\ShoppingCartProject.pdb
+C:\Users\atharv.sathe\source\repos\ShoppingCartProject\obj\Debug\net8.0\ShoppingCartProject.dll
+C:\Users\atharv.sathe\source\repos\ShoppingCartProject\obj\Debug\net8.0\refint\ShoppingCartProject.dll
+C:\Users\atharv.sathe\source\repos\ShoppingCartProject\obj\Debug\net8.0\ShoppingCartProject.pdb
+C:\Users\atharv.sathe\source\repos\ShoppingCartProject\obj\Debug\net8.0\ShoppingCartProject.genruntimeconfig.cache
+C:\Users\atharv.sathe\source\repos\ShoppingCartProject\obj\Debug\net8.0\ref\ShoppingCartProject.dll
