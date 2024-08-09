@@ -1,0 +1,14 @@
+C:\Users\atharv.sathe\source\repos\Proxy_POC\bin\Debug\net8.0\Proxy_POC.exe
+C:\Users\atharv.sathe\source\repos\Proxy_POC\bin\Debug\net8.0\Proxy_POC.deps.json
+C:\Users\atharv.sathe\source\repos\Proxy_POC\bin\Debug\net8.0\Proxy_POC.runtimeconfig.json
+C:\Users\atharv.sathe\source\repos\Proxy_POC\bin\Debug\net8.0\Proxy_POC.dll
+C:\Users\atharv.sathe\source\repos\Proxy_POC\bin\Debug\net8.0\Proxy_POC.pdb
+C:\Users\atharv.sathe\source\repos\Proxy_POC\obj\Debug\net8.0\Proxy_POC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atharv.sathe\source\repos\Proxy_POC\obj\Debug\net8.0\Proxy_POC.AssemblyInfoInputs.cache
+C:\Users\atharv.sathe\source\repos\Proxy_POC\obj\Debug\net8.0\Proxy_POC.AssemblyInfo.cs
+C:\Users\atharv.sathe\source\repos\Proxy_POC\obj\Debug\net8.0\Proxy_POC.csproj.CoreCompileInputs.cache
+C:\Users\atharv.sathe\source\repos\Proxy_POC\obj\Debug\net8.0\Proxy_POC.dll
+C:\Users\atharv.sathe\source\repos\Proxy_POC\obj\Debug\net8.0\refint\Proxy_POC.dll
+C:\Users\atharv.sathe\source\repos\Proxy_POC\obj\Debug\net8.0\Proxy_POC.pdb
+C:\Users\atharv.sathe\source\repos\Proxy_POC\obj\Debug\net8.0\Proxy_POC.genruntimeconfig.cache
+C:\Users\atharv.sathe\source\repos\Proxy_POC\obj\Debug\net8.0\ref\Proxy_POC.dll
