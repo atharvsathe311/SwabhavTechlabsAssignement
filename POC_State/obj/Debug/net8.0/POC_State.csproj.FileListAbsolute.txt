@@ -1,0 +1,14 @@
+C:\Users\atharv.sathe\source\repos\POC_State\bin\Debug\net8.0\POC_State.exe
+C:\Users\atharv.sathe\source\repos\POC_State\bin\Debug\net8.0\POC_State.deps.json
+C:\Users\atharv.sathe\source\repos\POC_State\bin\Debug\net8.0\POC_State.runtimeconfig.json
+C:\Users\atharv.sathe\source\repos\POC_State\bin\Debug\net8.0\POC_State.dll
+C:\Users\atharv.sathe\source\repos\POC_State\bin\Debug\net8.0\POC_State.pdb
+C:\Users\atharv.sathe\source\repos\POC_State\obj\Debug\net8.0\POC_State.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atharv.sathe\source\repos\POC_State\obj\Debug\net8.0\POC_State.AssemblyInfoInputs.cache
+C:\Users\atharv.sathe\source\repos\POC_State\obj\Debug\net8.0\POC_State.AssemblyInfo.cs
+C:\Users\atharv.sathe\source\repos\POC_State\obj\Debug\net8.0\POC_State.csproj.CoreCompileInputs.cache
+C:\Users\atharv.sathe\source\repos\POC_State\obj\Debug\net8.0\POC_State.dll
+C:\Users\atharv.sathe\source\repos\POC_State\obj\Debug\net8.0\refint\POC_State.dll
+C:\Users\atharv.sathe\source\repos\POC_State\obj\Debug\net8.0\POC_State.pdb
+C:\Users\atharv.sathe\source\repos\POC_State\obj\Debug\net8.0\POC_State.genruntimeconfig.cache
+C:\Users\atharv.sathe\source\repos\POC_State\obj\Debug\net8.0\ref\POC_State.dll
