@@ -1,0 +1,52 @@
+body {
+    background-color: #f5f5f5;
+}
+
+.todo-list-item
+{
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    padding: 10px; 
+    border-bottom: 1px solid #ddd;
+}
+
+.action-button {
+    background-color: #ff3f3f;
+    color: white;
+    border: none;              
+    border-radius: 4px;       
+    padding: 5px 10px;      
+    cursor: pointer;     
+    transition: background-color 0.3s ease;
+}
+
+.action-button:hover {
+    background-color: #d30000;
+}
+
+.action-button-success {
+    background-color: #1be400;
+    color: white;
+    border: none;              
+    border-radius: 4px;       
+    padding: 5px 10px;      
+    cursor: pointer;     
+    transition: background-color 0.3s ease;
+}
+
+.action-button-success:hover {
+    background-color: #15b300;
+}
+
+.strikethrough {
+    text-decoration: line-through;
+}
+
+hr {
+    background-color: black;
+    border-style: none;
+    border-top-style: dotted;
+    height: auto;
+    width: 100%;
+  }
